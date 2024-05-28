@@ -1,3 +1,4 @@
-  Integrantes, IDE :  
-  Jaider España Paternina, GDB Online Debugger. 
-  
+## Integrantes :  
+### Jaider España Paternina 
+## IDE :
+### GDB online Debugger
